@@ -148,7 +148,7 @@
     #main-div{
       width: 90%;
       height: auto;
-      margin: 3.5 auto;
+      margin: 3em auto;
       flex-direction: column;
 
     }
@@ -197,7 +197,7 @@
     #main-div{
       width: 90%;
       height: auto;
-      margin: 3.5em auto;
+      margin: 3em auto;
      flex-direction: column;
 
     }
